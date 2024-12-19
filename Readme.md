@@ -77,8 +77,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GuhanAein&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=GuhanAein)](https://git.io/streak-stats)
 
 ###
